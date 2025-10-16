@@ -24,7 +24,7 @@ Design a Smart Course Recommender that suggests subjects using user interest key
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Styling, animations, and responsive design
 - **Vanilla JavaScript** - Core functionality and course recommendation algorithm
-- **Canvas API** - Dynamic starry galaxy background animation
+- **Canvas** - Dynamic starry galaxy background animation
 
 ## Features
 
@@ -62,12 +62,12 @@ The application automatically adjusts layout, font sizes, and interactive elemen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coursepilot-smart-course.git
+   git clone https://github.com/Akshay-gurav-31/CoursePilot.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd coursepilot-smart-course
+   cd CoursePilot-main
    ```
 
 3. Open `index.html` in your preferred web browser
